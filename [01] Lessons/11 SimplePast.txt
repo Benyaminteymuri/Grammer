@@ -1,0 +1,31 @@
+simple past
+
+They watch TV every night. => simple present
+
+They watched TV last night. => simple past
+
+The simple past is often -ed (regular verbs). For example: 
+
+    work => worked          clean => cleaned        start => started 
+    dance => danced         stay => stayed          need => needed 
+
+You can use just with the simple past (just = a short time ago):
+
+"Is Tom here?" "No, he just left." 
+I'm not hungry. I just had dinner.
+
+
+try => tried          stop => stopped          
+study => studied          plan => planned          copy => copied 
+
+Some verbs are irregular (= not regular). The simple past is not -ed. 
+Here are some important irregular verbs: 
+
+begin => began         fall => fell       break => broke     find => found      bring => brought
+fly => flew            build => built     forget => forgot   buy => bought      get => got     
+catch => caught        give => gave       come => came       go => went         do => did             
+drink => drank         hear => heard      eat => ate         know => knew       have => had 
+leave => lose          make => meet       pay => put         read => ring       say => see 
+left => lost           made => met        paid => put        read => (red)*     said => saw 
+sell => sold           sit => sat         sleep => slept     speak => spoke     stand => stood 
+take => took           tell => told       think => thought   win => won         write => wrote 

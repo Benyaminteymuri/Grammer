@@ -1,0 +1,35 @@
+Am/Is/Are Question
+
+Negation	               Negation short form	            Question
+I am not late.		    I'm not late.	               Am I late?
+You are not clever.	    You aren't clever.	         Are you clever?
+He is not happy.	          He isn't happy.	         Is he happy?
+She is not hungry.	    She isn't hungry.	         Is she hungry?
+It is not cold.		    It isn't cold.	         Is it cold?
+We are not late.		    We aren't late.	         Are we late?
+You are not sleepy.	    You aren't sleepy.	         Are you sleepy?
+They are not great.	    They aren't great.	         Are they great?
+
+NO: Are your shoes new? => not are new your shoes
+
+Where/What/Who/How/Why?
+
+Where is your mother?
+Where are you from?
+Who is it about?
+What color it your car?
+How old is hoe?
+How are your parent?
+How much are your shoes?
+Why it is so expensive?
+
+Why - though it seems so obvious, I've often been part of projects where the why question was never asked! I think sometimes you get so used to being assigned projects with little to no evaluation let alone business case justification, that the fundamental question of "Why are we doing this project" does not get asked. Really delving into this question will allow you to get at the drivers and benefits that the project is to deliver which will allow you to deliver a project your customer and stakeholders' satisfaction.
+What – this is really the first question you ask when you're trying to gather requirements for your project to define the scope. It gets no simpler than "What do we do?"
+Who – who are your stakeholders, team, customer that will work on, sponsor and ultimately benefit from when your project is completed?
+Where – then after all is said and done, where will your project be done? Where will it be delivered? With today's global and dispersed environments, this question is not as simple as it may seem!
+How - 
+
+What is = What's
+How is = how's
+Who is = who's
+Where is = where's
